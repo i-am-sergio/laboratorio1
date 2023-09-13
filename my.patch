@@ -1,0 +1,52 @@
+diff --git a/main.txt b/main.txt
+deleted file mode 100644
+index c30e38d..0000000
+--- a/main.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Cambios en la rama main
+diff --git a/nuevoArchivoEnMain.cpp b/nuevoArchivoEnMain.cpp
+deleted file mode 100644
+index fdd47a7..0000000
+--- a/nuevoArchivoEnMain.cpp
++++ /dev/null
+@@ -1,8 +0,0 @@
+-#include <iostream>
+-using namespace std;
+-
+-int main()
+-{
+-    cout << "nuevo archivo en main" << endl;
+-    return 0;
+-}
+\ No newline at end of file
+diff --git a/nuevo_archivo_en_rama1.cpp b/nuevo_archivo_en_rama1.cpp
+deleted file mode 100644
+index 7f80dc5..0000000
+--- a/nuevo_archivo_en_rama1.cpp
++++ /dev/null
+@@ -1,8 +0,0 @@
+-#include <iostream>
+-using namespace std;
+-
+-int main()
+-{
+-    cout << "Nuevo archivo de mi app" << endl;
+-    return 0;
+-}
+\ No newline at end of file
+diff --git a/segundo_archivo_en_rama1.cpp b/segundo_archivo_en_rama1.cpp
+deleted file mode 100644
+index 60e9d8c..0000000
+--- a/segundo_archivo_en_rama1.cpp
++++ /dev/null
+@@ -1,8 +0,0 @@
+-#include <iostream>
+-using namespace std;
+-
+-int main()
+-{
+-    cout << "Segundo archivo de mi app" << endl;
+-    return 0;
+-}
+\ No newline at end of file
